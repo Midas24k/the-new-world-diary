@@ -21,6 +21,14 @@ app.get('/notes', (req, res) =>
     res.sendFile(path.join(__dirname, '/public/assets/js/index.js'))
 );
 
+// GET /api/notes should read the db.json file and return all saved notes as JSON.
+
+
+
+
+
+// POST /api/notes should receive a new note to save on the request body, add it to the db.json 
+
 
 
 app.listen(PORT, () =>
