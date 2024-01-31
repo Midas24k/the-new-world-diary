@@ -23,6 +23,15 @@
   Expressjs
   Insomnia
 
+  The repository for this application and deploment link 
+  https://github.com/Midas24k/the-new-world-diary
+
+  https://the-note-taker-777-3d391e8df5a5.herokuapp.com
+
+  ![Alt text](<Screen Shot 2024-01-31 at 18.25.35 PM.png>)
+
+  ![Alt text](<Screen Shot 2024-01-31 at 18.27.21 PM.png>)
+
 
   ## Usage:
   Maintain daily notes 
