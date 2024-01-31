@@ -3,7 +3,7 @@
   ![License](https://img.shields.io/badge/License-Mit-yellow.svg)
 
   ## Description:
-  This project is the Challenge 11 expressjs note taker application.
+  This project is the Challenge 11 expressjs "Note Taker" application. In this project we focused on the Express functions and the usage of routes. Learning how servers work is essential as Web Devoloper. This project focused on the backend of a web app while built in Javascript, the application is extremely light wieght. Something as simply as jotting down random thoughts or keeping up with daily task is at the tips of you fingers when using this application. This project offers the ablity to save, clear, and delete any and all notes created to be flexible for your usage. Be on the look out for future developements for this project.
 
   # Table of Contents
 
@@ -18,10 +18,17 @@
   Roderick Hughey
    
   ## Installation:
-  JavaScript, expressjs, innsomnia, and nodejs
+  In order to use this application the foillowing will require.
+  Nodejs
+  Expressjs
+  Insomnia
+
 
   ## Usage:
-  This app can be used to take notes for perfessional usage or dail usage.
+  Maintain daily notes 
+  Professional reminders
+  A tool for learning how to utlize Expressjs
+
 
   ## Contributors:
   N/A
@@ -31,7 +38,7 @@
   This project is licensed under the Mit license.
 
   ## Tests:
-  yes, using innsomnia
+  Insomnia - was used to test all routes 
 
   ## Questions
 
